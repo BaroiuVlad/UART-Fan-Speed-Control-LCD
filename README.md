@@ -44,7 +44,4 @@ A microcontroller-based system designed to control and monitor the speed of a co
 
 ---
 
-## 📝 Usage / Getting Started
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/USERNAME/stm32-uart-fan-control.git](https://github.com/USERNAME/stm32-uart-fan-control.git)
+
